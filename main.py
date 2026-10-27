@@ -6,8 +6,8 @@ from chat_service import chat
 
 
 app = FastAPI(
-    title="Astronomy Expert",
-    description="Agent capable of clarifying query regarding astronomy",
+    title="Cognizant company chatbot",
+    description="Agent capable of clarifying query regarding Cognizant company",
     version="1.0.0"
 )
 
