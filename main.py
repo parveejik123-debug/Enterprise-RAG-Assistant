@@ -16,7 +16,7 @@ class DataValidation(BaseModel):
     message: str
 
 
-@app.get("/")
+@app.get("/Home")
 def Home():
     return {"Welcome to Astronomical world"}
 
